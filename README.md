@@ -1,16 +1,30 @@
-# React + Vite
+🎬 TMDb Movie Browser (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive movie browsing application built with React that consumes the TMDb API. Users can explore popular movies, search for titles, view detailed information, and enjoy a smooth, interactive interface.
 
-Currently, two official plugins are available:
+This project demonstrates working with external APIs, dynamic data rendering, and state management in React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Project Overview
+The application allows users to:
+Browse popular and trending movies fetched from TMDb API
 
-## React Compiler
+Search for movies by title
+View detailed information for each movie (poster, description, release date, rating)
+Enjoy a responsive design across devices
+Interact with a clean, user-friendly interface
+All data is fetched dynamically from TMDb, showcasing how to integrate external APIs in React projects.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✨ Key Features
+Fetch and display popular movies from TMDb API
+Search functionality with real-time results
+Detailed movie view (title, overview, release date, rating, poster)
+Responsive design for mobile and desktop
+React-based state management for dynamic rendering
 
-## Expanding the ESLint configuration
+🛠️ Technologies Used
+React.js
+JavaScript (ES6+)
+CSS3 / Responsive Design
+TMDb API
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Preview:
