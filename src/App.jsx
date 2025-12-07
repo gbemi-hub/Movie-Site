@@ -1,5 +1,5 @@
 import React from "react"
-import Search from "./component/search"
+import Search from "./component/Search"
 import { useState ,useEffect } from "react"
 import Seriescard from "./component/Seriescard";
 import { useDebounce } from 'react-use'
