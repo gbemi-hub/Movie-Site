@@ -27,4 +27,4 @@ JavaScript (ES6+)
 CSS3 / Responsive Design
 TMDb API
 
-Preview:
+Preview: https://movie-testing.vercel.app/
